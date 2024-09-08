@@ -20,15 +20,15 @@ git clone https://github.com/andrewpayne68/blackmint.git
 cd blackmint
 ```
 ```
-tar -xf blackmint.tar.xz
+tar -xf BLACKMINT.tar.xz
 ```
 ```
-cd blackmint &&./build.sh
+cd BLACKMINT &&./build.sh
 ```
 
 OR run the all-in-one bash command
 ```
-sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackmint.git && cd blackmint && tar -xf blackmint.tar.xz && cd blackmint && ./build.sh
+sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackmint.git && cd blackmint && tar -xf BLACKMINT.tar.xz && cd BLACKMINT && ./build.sh
 ```
 \
 \
