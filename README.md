@@ -1,5 +1,6 @@
 ![image-1](https://github.com/andrewpayne68/blackmint/blob/f21df71c085aa211276eb7c8222892b5df041544/BLACKMINT.png)
 
+![image-1](https://github.com/andrewpayne68/blackmint/blob/e82ed3194802f0282509b70e612ace1faa20fdd9/BLACKMINT%20logo.png)
 
 This is a fully Darkest Orange GTK Gnome Flat Remix themed installation build script to convert Ubuntu 24.04 LTS installation to Blackbuntu 24.04. It is recommended to execute on a clean installation.  
 
