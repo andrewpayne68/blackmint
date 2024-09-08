@@ -4,9 +4,7 @@ This is a fully Darkest Green GTK Gnome Flat Remix themed installation build scr
 
 Download the latest Ubuntu ISO from here: ` https://www.linuxmint.com/download.php `
 
-_Note this script and theme will not work correctly on older builds of ubuntu, such as 22.04 LTS, check this repo for one for 22.04 - https://github.com/andrewpayne68/BLACKBUNTU.2204_
-
-Includes Thorium Browser, Brave Browser, Tweaks, GDM Settings, Gedit (Matrix Themed) and Variety Wallpaper Changer, as well as many other open source OSINT and PenTest applications.
+_Check this repo for one for Ubuntu 24.04 - https://github.com/andrewpayne68/blackbuntu2404_
 
 
 Installation Script
@@ -16,21 +14,21 @@ Installation Script
 sudo apt-get -y install git
 ```
 ```
-git clone https://github.com/andrewpayne68/blackbuntu2404.git
+git clone https://github.com/andrewpayne68/blackmint.git
 ```
 ```
-cd blackbuntu2404
+cd blackmint
 ```
 ```
-tar -xf blackbuntu-2404.tar.xz
+tar -xf blackmint.tar.xz
 ```
 ```
-cd blackbuntu-2404 &&./build.sh
+cd blackmint &&./build.sh
 ```
 
 OR run the all-in-one bash command
 ```
-sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu2404.git && cd blackbuntu2404 && tar -xf blackbuntu-2404.tar.xz && cd blackbuntu-2404 && ./build.sh
+sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackmint.git && cd blackmint && tar -xf blackmint.tar.xz && cd blackmint && ./build.sh
 ```
 \
 \
