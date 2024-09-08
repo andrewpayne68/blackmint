@@ -1,10 +1,8 @@
-![image-1](https://github.com/andrewpayne68/blackmint/blob/f21df71c085aa211276eb7c8222892b5df041544/BLACKMINT.png)
-
 ![image-1](https://github.com/andrewpayne68/blackmint/blob/e82ed3194802f0282509b70e612ace1faa20fdd9/BLACKMINT%20logo.png)
 
-This is a fully Darkest Orange GTK Gnome Flat Remix themed installation build script to convert Ubuntu 24.04 LTS installation to Blackbuntu 24.04. It is recommended to execute on a clean installation.  
+This is a fully Darkest Green GTK Gnome Flat Remix themed installation build script to convert Linux Mint 22 LTS installation to BLACKMINT. It is recommended to execute on a clean installation.  
 
-Download the latest Ubuntu ISO from here: ` https://ubuntu.com/download/desktop `
+Download the latest Ubuntu ISO from here: ` [https://ubuntu.com/download/desktop](https://www.linuxmint.com/download.php) `
 
 _Note this script and theme will not work correctly on older builds of ubuntu, such as 22.04 LTS, check this repo for one for 22.04 - https://github.com/andrewpayne68/BLACKBUNTU.2204_
 
