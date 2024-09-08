@@ -1,6 +1,8 @@
 <p align="center"><a href="https://ibb.co/6nyMVK0"><img src="https://i.ibb.co/PmrL32G/BLACKMINT.png" alt="BLACKMINT" border="0" width="50%" height="50%"></a></p>
 
-<p align="center"> ![image-1](https://github.com/andrewpayne68/blackmint/blob/f21df71c085aa211276eb7c8222892b5df041544/BLACKMINT.png)
+![image-1](https://github.com/andrewpayne68/blackmint/blob/f21df71c085aa211276eb7c8222892b5df041544/BLACKMINT.png)
+
+<img align="centre" src="https://ibb.co/6nyMVK0">
 
 <img align="left" width="100" height="100" src="https://i.ibb.co/PmrL32G/BLACKMINT.png">
 
