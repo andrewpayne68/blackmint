@@ -1,7 +1,7 @@
 <p align="center"><a href="https://ibb.co/6nyMVK0"><img src="https://i.ibb.co/PmrL32G/BLACKMINT.png" alt="BLACKMINT" border="0" width="50%" height="50%"></a></p>
 
 <div align="center">
-	<img src="https://i.ibb.co/PmrL32G/BLACKMINT.png">
+	<img src="https://imgur.com/a/8lqksvq.png">
 </div>
 
 <a href="https://ibb.co/6nyMVK0"><img src="https://i.ibb.co/PmrL32G/BLACKMINT.png" alt="BLACKMINT" border="0"></a>
