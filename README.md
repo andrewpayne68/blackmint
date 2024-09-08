@@ -1,12 +1,6 @@
-<p align="center"><a href="https://ibb.co/MMtC5Wz"><img src="https://i.ibb.co/0h6GV80/BLACKMINT-copy.png" alt="BLACKMINT-copy" border="0" width="50%" height="50%"></a></p>
-
-<img src="https://i.ibb.co/0h6GV80" alt="BLACKMINT-copy" border="0">
-
-<a href="https://ibb.co/6nyMVK0"><img src="https://i.ibb.co/PmrL32G/BLACKMINT.png" alt="BLACKMINT" border="0"></a>
-
-![image-1](https://github.com/andrewpayne68/blackmint/blob/f21df71c085aa211276eb7c8222892b5df041544/BLACKMINT.png)
-
-<a href="https://ibb.co/6nyMVK0"><img src="https://i.ibb.co/PmrL32G/BLACKMINT.png" alt="BLACKMINT" border="0"></a>
+<div style="text-align: center;">
+    <![image-1](https://github.com/andrewpayne68/blackmint/blob/f21df71c085aa211276eb7c8222892b5df041544/BLACKMINT.png)>
+</div>
 
 
 
