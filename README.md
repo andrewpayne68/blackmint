@@ -43,7 +43,8 @@ sudo nala update && sudo nala upgrade -y
 Screenshot
 -
 \
-![image-1](https://github.com/andrewpayne68/blackbuntu2404/blob/main/Blackbuntu-desktop.png)
+
+![image-1](https://github.com/andrewpayne68/blackmint/blob/f90b48fa3562ddd7eb5f935f513fa60a3fedf0a2/Screenshot%202024-09-08%20183216.png)
 
 
 
