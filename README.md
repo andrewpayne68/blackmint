@@ -6,6 +6,7 @@ Download the latest Ubuntu ISO from here: ` https://www.linuxmint.com/download.p
 
 _Check this repo for one for Ubuntu 24.04 - https://github.com/andrewpayne68/blackbuntu2404_
 
+If you have issues with VMWare Workstation Pro 17.6 then I would recommend updating the GPU Drivers using this repo: ` https://gist.github.com/andrewpayne68/ba97ad0ec93fed9c0631ad66de858841 `
 
 Installation Script
 -
