@@ -42,7 +42,7 @@ sudo nala update && sudo nala upgrade -y
 \
 Screenshot
 -
-![image-1](https://github.com/andrewpayne68/blackmint/blob/e82ed3194802f0282509b70e612ace1faa20fdd9/BLACKMINT%20logo.png)
+![image-1](https://github.com/andrewpayne68/blackmint/blob/7ce03e40c40db0c283cb6a8a131e9e0cbefcd554/Screenshot%202024-09-08.png)
 
 
 
