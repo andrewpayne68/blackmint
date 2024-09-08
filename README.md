@@ -1,5 +1,4 @@
-<div style="text-align: center;">
-    ![image-1](https://github.com/andrewpayne68/blackmint/blob/f21df71c085aa211276eb7c8222892b5df041544/BLACKMINT.png)
+<div style="text-align: center;">![image-1](https://github.com/andrewpayne68/blackmint/blob/f21df71c085aa211276eb7c8222892b5df041544/BLACKMINT.png)
 </div>
 
 
