@@ -2,7 +2,7 @@
 
 This is a fully Darkest Green GTK Flat Remix with Bloom Green icon themed installation build script to convert Linux Mint 22 LTS installation to BLACKMINT. It is recommended to execute on a clean installation.  
 
-Download the latest Ubuntu ISO from here: ` https://www.linuxmint.com/download.php `
+Download the latest Ubuntu ISO from here: https://www.linuxmint.com/download.php
 
 _Check this repo for one for Ubuntu 24.04 - https://github.com/andrewpayne68/blackbuntu2404_
 
