@@ -4,7 +4,7 @@
 
 
 
-<p align="center"><a href="https://ibb.co/DzZFK8v"><img src="https://i.ibb.co/FmF170y/BLACKBUNTU-LOGO-2.png" alt="BLACKBUNTU-LOGO-2" border="0" width="50%" height="50%"></a></p>
+<p align="center"><a href="https://ibb.co/DzZFK8v"><img src=![image-1](https://github.com/andrewpayne68/blackmint/blob/f21df71c085aa211276eb7c8222892b5df041544/BLACKMINT.png) border="0" width="50%" height="50%"></a></p>
 
 This is a fully Darkest Orange GTK Gnome Flat Remix themed installation build script to convert Ubuntu 24.04 LTS installation to Blackbuntu 24.04. It is recommended to execute on a clean installation.  
 
