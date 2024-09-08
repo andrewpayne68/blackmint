@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ibb.co/6nyMVK0"><img src="https://i.ibb.co/PmrL32G/BLACKMINT.png" alt="BLACKMINT" border="0" width="50%" height="50%"></a></p>
+<p align="center"><a href="https://ibb.co/MMtC5Wz"><img src="https://i.ibb.co/0h6GV80/BLACKMINT-copy.png" alt="BLACKMINT-copy" border="0" width="50%" height="50%"></a></p>
 
 <a href="https://ibb.co/MMtC5Wz"><img src="https://i.ibb.co/0h6GV80/BLACKMINT-copy.png" alt="BLACKMINT-copy" border="0"></a>
 
