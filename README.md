@@ -33,7 +33,7 @@ sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackm
 ```
 \
 \
-After the first reboot, run Nala to update Blackbuntu
+After the first reboot, run Nala to update Blackmint
 -
 ```
 sudo nala update && sudo nala upgrade -y
